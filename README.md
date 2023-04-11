@@ -33,9 +33,9 @@ I'm Hirthik Balaji C, a passionate and enthusiastic developer who loves to creat
 
 ## 📊 My stats ...
 
-[![Hirthik Balaji C's GitHub stats](https://github-readme-stats.vercel.app/api?username=userb&show_icons=true&theme=radical)](https://github.com/userb/github-readme-stats)
+[![Hirthik Balaji C's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirthikbalaji&show_icons=true&theme=radical)](https://github.com/userb/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userb&layout=compact&theme=radical)](https://github.com/userb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirthikbalaji&layout=compact&theme=radical)](https://github.com/hirthikbalaji/github-readme-stats)
 
 <!---
 HirthikBalaji/HirthikBalaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
