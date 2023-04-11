@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HirthikBalaji
 - 👀 I’m interested in Coding Python
-- 🌱 I’m currently learning 10 grade
+- 🌱 I’m currently learning 12 grade
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 anytime reach me out by mail
 
