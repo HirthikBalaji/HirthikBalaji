@@ -1,6 +1,20 @@
 # Hi there 👋
 
-I'm Hirthik Balaji C, a passionate and enthusiastic developer who loves to create amazing things with code. I have experience in web development, data science, machine learning, and artificial intelligence. I'm always eager to learn new skills and technologies, and to collaborate with other developers on exciting projects.
+## About Me  
+I am Hirthik Balaji C, a first-year student at Amrita Vishwa Vidyapeetham, Chennai Campus, in the Robotics and Artificial Intelligence department. My passion lies in machine learning, artificial intelligence, and cybersecurity. I have worked on multiple AI-driven projects and have a deep understanding of real-world applications in these fields.
+
+## Projects & Achievements  
+- **AI & Machine Learning Projects:**  
+  - Developed a **text generation model** capable of producing coherent and context-aware text.  
+  - Created a **voice assistant** with advanced NLP capabilities.  
+  - Worked on **retrieval-augmented generation (RAG)** for improving AI-driven search and response mechanisms.  
+  - Developed several other AI-based projects focused on automation and optimization.  
+
+- **Cybersecurity Contributions:**  
+  - Discovered **two high-level vulnerabilities** in one of Google’s core services, leading to a **total reward of $7,000** through Google's bug bounty program.  
+
+- **STEM & Leadership Training:**  
+  - Attended a **week-long camp at the U.S. Space and Rocket Center**, gaining hands-on experience in **STEM, leadership, and problem-solving skills**.  
 
 ## 🔭 I’m currently working on ...
 
