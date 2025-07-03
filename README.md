@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me  
-I am Hirthik Balaji C, a first-year student at Amrita Vishwa Vidyapeetham, Chennai Campus, in the Robotics and Artificial Intelligence department. My passion lies in machine learning, artificial intelligence, and cybersecurity. I have worked on multiple AI-driven projects and have a deep understanding of real-world applications in these fields.
+I am Hirthik Balaji C, a 2nd year student at Amrita Vishwa Vidyapeetham, Chennai Campus, in the Robotics and Artificial Intelligence department. My passion lies in machine learning, artificial intelligence, and cybersecurity. I have worked on multiple AI-driven projects and have a deep understanding of real-world applications in these fields.
 
 ## Projects & Achievements  
 - **AI & Machine Learning Projects:**  
